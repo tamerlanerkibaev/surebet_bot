@@ -1,25 +1,25 @@
 Telegram Calculator & Surebet Bot
-Телеграм-бот для расчётов и работы с вилками / калькулятором.
+A Telegram bot for calculations and working with surebets (arbitrage betting).
 
-🚀 Функционал
-Модульная структура проекта
-Автоматизированные расчёты
-Удобный интерфейс в Telegram
+🚀 Features
+Modular project structure
+Automated calculations
+User-friendly interface within Telegram
 
-🛠️ Технологии
+🛠️ Technologies
 Python 3.x
 aiogram / python-telegram-bot
 python-dotenv
 
-⚙️ Установка и запуск
-Клонируйте репозиторий:```bash
+⚙️ Installation and Setup
+Clone the repository:```bash
 git clone [https://github.com/tamerlanerkibaev/surebet_bot.git](https://github.com/tamerlanerkibaev/surebet_bot.git)
 cd surebet_bot
 pip install -r requirements.txt
 python bot.py
-Как отправить README.md на GitHub:
+How to push the README.md file to GitHub:
 
-После сохранения файла выполни в Git Bash три простые команды:
+After saving the file, run these three simple commands in Git Bash:
 
 ```bash
 git add README.md
